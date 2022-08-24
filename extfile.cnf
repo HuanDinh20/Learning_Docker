@@ -1,0 +1,3 @@
+subjectAltName = DNS:node3, 
+IP:10.0.0.12, 
+extendedKeyUsage = serverAuth
